@@ -30,7 +30,7 @@ function Concept() {
 							</strong>{" "}
 							dans l’entreprise d’électricité que nous avons créé mon mari et
 							moi. Avec les années, j’ai pris conscience qu’il me manquait une
-							part d’humain dans mon quotidien, j’ai ressenti le besoin de
+							part d’humain dans mon quotidien, j’ai ressenti le besoin de{" "}
 							<strong className="text-sable-sombre">
 								donner plus de sens à mon parcours
 							</strong>{" "}
@@ -54,7 +54,7 @@ function Concept() {
 							</strong>
 							. Ces trois approches — le{" "}
 							<strong className="text-sable-sombre">magnétisme</strong>, l’
-							<strong className="text-sable-sombre">hypnose</strong> et la
+							<strong className="text-sable-sombre">hypnose</strong> et la{" "}
 							<strong className="text-sable-sombre">nutrition</strong> — se
 							complètent naturellement pour accompagner chaque personne de
 							manière globale, en agissant sur{" "}
