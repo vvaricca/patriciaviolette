@@ -14,8 +14,8 @@ function Hypnose() {
 					<div className="md:w-1/2 flex justify-evenly mt-5">
 						<img
 							className="h-50 sm:h-60 lg:h-90"
-							src="/images/nutrition.webp"
-							alt="logo"
+							src="./images/nutrition.webp"
+							alt="nutrition"
 						></img>
 					</div>
 					<div className="md:mt-5 mb-2 mx-3 md:mx-5 md:w-1/2">

@@ -33,8 +33,8 @@ function Carte() {
 					<div className="md:w-1/2 flex justify-evenly mt-5 ">
 						<img
 							className="m-auto h-50 sm:h-60 lg:h-90"
-							src="/images/magnetisme.webp"
-							alt="logo"
+							src="./images/magnetisme.webp"
+							alt="magnetisme"
 						></img>
 					</div>
 					<div className="mx-5 pb-2 mt-5 md:w-1/2 ">
@@ -82,8 +82,8 @@ function Carte() {
 						<div className="md:hidden flex justify-evenly mt-5">
 							<img
 								className="h-50 sm:h-60 lg:h-90"
-								src="/images/hypnose.webp"
-								alt="logo"
+								src="./images/hypnose.webp"
+								alt="hypnose"
 							></img>
 						</div>
 						<h1 className="text-center text-2xl font-bold mt-10  font-rounded-elegance capitalize text-sombre-bleu">
@@ -136,8 +136,8 @@ function Carte() {
 					<div className="w-1/2 hidden md:flex justify-evenly mt-5">
 						<img
 							className="h-50 sm:h-60 lg:h-90"
-							src="/images/hypnose.webp"
-							alt="logo"
+							src="./images/hypnose.webp"
+							alt="hypnose"
 						></img>
 					</div>
 				</div>
@@ -147,8 +147,8 @@ function Carte() {
 					<div className="md:w-1/2 flex justify-evenly mt-5">
 						<img
 							className="h-50 sm:h-60 lg:h-90"
-							src="/images/nutrition.webp"
-							alt="logo"
+							src="./images/nutrition.webp"
+							alt="nutrition"
 						></img>
 					</div>
 					<div className="px-5 pb-2 md:w-1/2 ">

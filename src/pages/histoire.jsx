@@ -14,7 +14,7 @@ function Concept() {
 					<div className="w-1/2 hidden md:flex justify-evenly mt-5">
 						<img
 							className="h-30 sm:h-60 lg:h-90"
-							src="/images/logo.webp"
+							src="./images/logo.webp"
 							alt="logo"
 						></img>
 					</div>
