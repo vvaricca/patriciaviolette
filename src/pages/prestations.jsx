@@ -4,7 +4,7 @@ function Carte() {
 	return (
 		<div
 			id="accompagnements"
-			className="md:flex flex-col w-screen min-h-screen bg-[url(/images/rock_bg.jpg)] "
+			className="md:flex flex-col w-screen min-h-screen bg-[url('./images/rock_bg.jpg')] "
 		>
 			<div className="text-center mx-auto py-3 px-5 mt-10 border-x-10 border-sable-sombre ">
 				<h1 className="text-2xl md:text-4xl font-rounded-elegance font-extrabold text-sombre-bleu">
