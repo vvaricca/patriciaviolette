@@ -26,12 +26,7 @@
 	--font-rounded-elegance: var(--font-rounded-elegance);
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
-		--background: #0a0a0a;
-		--foreground: #ededed;
-	}
-}
+@variant dark (false);
 
 body {
 	background: var(--background);
